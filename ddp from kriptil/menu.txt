@@ -1,0 +1,4 @@
+Aqua botol,2500,8
+Aqua gelas,500,4
+Coca-cola,9000,3
+Equil,16750,9

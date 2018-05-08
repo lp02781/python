@@ -1,0 +1,48 @@
+3
+Sniper 3
+Agus;18;80
+Budi;25;120
+Yumna;45;2000
+Gunner 2
+Atok;53;500
+Rambo;10;50
+Driver 2
+Jarjit;24;240
+Ismail;32;740
+NEW TENTARA Fighter Boy;25;125
+NEW OPERASI Trikora 2
+NEW OPERASI Terpadu 1
+MASUK Sniper Yumna Trikora
+MASUK Driver Jarjit Trikora
+MASUK Sniper Yumna Terpadu
+PELATIHAN Sniper
+SUMMARY Sniper Yumna
+BERAKSI OPERASI Trikora
+SUMMARY Driver Jarjit
+BERAKSI OPERASI Terpadu
+SUMMARY ALL
+KELUAR Jarjit Trikora
+BERAKSI OPERASI Trikora
+NEW TENTARA Sniper Barraza;15;10
+SUMMARY ALL
+
+1
+Ranger 1
+Pendragon;32;1945
+MASUK Sniper Yumna Seroja
+NEW OPERASI Seroja 3
+MASUK Ranger Yumna Seroja
+MASUK Ranger Pendragon Seroja
+NEW OPERASI Seroja 3
+MASUK Ranger Pendragon Seroja
+MASUK Ranger Pendragon Seroja
+KELUAR Yumna Trikora
+KELUAR Yumna Seroja
+KELUAR Pendragon Seroja
+PELATIHAN Sniper
+PELATIHAN Ranger
+BERAKSI OPERASI Trikora
+BERAKSI OPERASI Seroja
+SUMMARY Sniper Yumna
+SUMMARY Ranger Yumna
+SUMMARY ALL
